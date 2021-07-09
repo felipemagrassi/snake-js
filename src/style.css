@@ -8,6 +8,10 @@ body {
   background-color: black;
 }
 
+canvas {
+  box-shadow: plum 5px 5px 15px;
+}
+
 .game {
   display: flex;
   justify-content: center;
